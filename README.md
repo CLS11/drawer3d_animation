@@ -9,9 +9,6 @@ This project demonstrates a sleek and interactive **3D drawer animation** built 
 - Minimal and clean UI
 - Responsive for different screen sizes
 
-##  Preview
-
-> Add a screen recording or GIF here to show the drawer in action (optional but highly recommended)
 
 ## 🛠️ Tech Stack
 
